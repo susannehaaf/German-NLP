@@ -4,7 +4,7 @@ Curated list of open-access/open-source/off-the-shelf resources and tools develo
 
 Resources and tools which can be used either off-the-shelf or with minor adjustments and which are maintained are primarily chosen for this list. It is deliberately biased in terms of usability and user-friendliness.
 
-Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md)
+Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md).
 
 ## Corpora
 
@@ -17,9 +17,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
 
 
-### Specialized
+### Historical
 
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
+
+
+### Specialized
+
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
 * [CLARIN-D list](https://www.clarin-d.net/en/corpora)
@@ -31,6 +35,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Learner/Error Corpora
 
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
+* [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 
 ## Parallel corpora
@@ -50,7 +55,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Frameworks
 
-* [CLARIN Language Resource Switchboard](https://switchboard.clarin.eu/#/)
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [DKPro](https://dkpro.github.io)
@@ -73,19 +77,25 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Morphological analysis
 
+* [CharSplit](https://github.com/dtuggener/CharSplit)
 * [DEMorphy](https://github.com/DuyguA/DEMorphy)
 * [HypheNN-de](https://github.com/msiemens/HypheNN-de)
 * [jwordsplitter](https://github.com/danielnaber/jwordsplitter)
 * [MarMoT](http://cistern.cis.lmu.de/marmot/)
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
+* [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
+
+
+#### Normalization
+
+* [CAB](http://www.deutschestextarchiv.de/cab)
 
 
 #### POS-tagging
 
 * [clevertagger](https://github.com/rsennrich/clevertagger)
-* [flair](https://github.com/zalandoresearch/flair)
 * moot
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
@@ -109,6 +119,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/)
    * [pygermanet](https://github.com/wroberts/pygermanet)
 * [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
+* [Open German WordNet](https://github.com/hdaSprachtechnologie/odenet)
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
 
 
@@ -122,6 +133,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
+* [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
+* [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
 
 
 #### Psycholinguistics
